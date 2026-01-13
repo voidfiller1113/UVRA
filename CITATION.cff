@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it as below."
+authors:
+  - family-names: "System"
+    given-names: "Architect"
+    alias: "UVRA Project"
+title: "UVRA: Universal Vector Reality Architecture"
+version: 2.0.0
+doi: 10.5281/zenodo.XXXXXXX  # Replace with actual DOI after Zenodo publication
+date-released: 2026-01-14
+url: "https://github.com/voidfiller1113/UVRA"  # Replace with your repository URL
+abstract: >-
+  UVRA defines the universe as a pre-calculated, immutable High-Dimensional Vector Database. 
+  It provides a four-layer architecture (Schema, Engine, Runtime, Interface) to reframe 
+  physical phenomena—such as light speed, gravity, and entropy—as fundamental 
+  database operations and constraints.
+keywords:
+  - Conceptual Architecture
+  - Database Metaphor
+  - Systems Engineering
+  - Abstract Model
+  - Information Structure
+  - Computational Metaphor
+  - Spacetime Model
+  - Block Universe
+  - Middleware Architecture
+license: "CC-BY-4.0"

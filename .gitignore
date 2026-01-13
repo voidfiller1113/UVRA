@@ -1,0 +1,42 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+
+# Build artifacts
+*.pdf
+*.html
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Node modules (if documentation tooling is added)
+node_modules/
+
+# Python (if documentation tooling is added)
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Backup files
+*.bak
+*.backup
