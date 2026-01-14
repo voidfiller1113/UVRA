@@ -1,6 +1,7 @@
 # UVRA (Universal Vector Reality Architecture)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18237856.svg)](https://doi.org/10.5281/zenodo.18237856)
+
 ![Version: 2.0.0](https://img.shields.io/badge/Version-2.0.0-green?style=flat-square)
 ![Status: Terminal Artifact](https://img.shields.io/badge/Status-Terminal%20Artifact-black?style=flat-square)
 ![Architecture: Server-Side Vector DB](https://img.shields.io/badge/Architecture-Server--Side%20Vector%20DB-blue?style=flat-square)
